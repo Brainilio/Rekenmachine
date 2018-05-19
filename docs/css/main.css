@@ -76,6 +76,7 @@
     transition-duration: 0.4s;
     cursor: pointer;
     
+    
 }
 
 #delen:hover { 
@@ -100,5 +101,25 @@ input[type=text]:focus {
 }
 
 input[name="uitkomst"]:focus {
-    border: 3px solid red;
+    border: 3px solid red;   
+}
+
+#rekenmachine { 
+
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+body {
+    text-align: center;
+}
+form {
+    display: inline-block;
+}
+
+#tekst { 
+    font-weight: bold;
+
 }
