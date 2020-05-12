@@ -1,2 +1,2 @@
-# Rekenmachine
-Dit is mijn javascript rekenmachine die ik heb gemaakt
+# Calculator
+Calculator made in Javascript showing DOM Manipulation
